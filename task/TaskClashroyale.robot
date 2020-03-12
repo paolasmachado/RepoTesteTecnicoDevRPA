@@ -15,7 +15,7 @@ Teste técnico para posição de Desenvolvedor RPA: Prime Control
      Clicar em login
      Ir até o menu minha conta
      Criar uma nova chave keyClashRoyaleAPI descrição
-     Salvar a token criado
+     Salvar a chave criada
 #PARTE 2: Utilizando o Python
       #Através da API do Clash Royale, obtenha as informações do clã de nome "The resistance", cuja tag começa com #9V2Y e que esteja localizado no Brasil
      Consultar Clan
